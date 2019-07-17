@@ -9,6 +9,8 @@ it rapidly grows stronger at finding the most optimal move.
 
 Issues:
 -The getScore method uses a function I made, and although it is good can always be improved.
+
 -Nodes will generate more children than there are moves (duplicates all still valid I believe)
+
 -Seems to be an issue with finding most optimal score at the start
 
