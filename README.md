@@ -8,6 +8,7 @@ the game tree is extremly broad and deep (There are 2176 options for the first m
 it rapidly grows stronger at finding the most optimal move.
 
 Issues:
+
 -The getScore method uses a function I made, and although it is good can always be improved.
 
 -Nodes will generate more children than there are moves (duplicates all still valid I believe)
